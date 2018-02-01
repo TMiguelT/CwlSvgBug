@@ -1,0 +1,22 @@
+{
+  "name": "cwl-svg-draw-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "awesome-typescript-loader": "^3.4.1",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "css-loader": "^0.28.9",
+    "cwl-svg": "^2.0.1",
+    "cwlts": "^1.15.18",
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.20.1",
+    "typescript": "^2.6.2",
+    "webpack": "^3.10.0"
+  }
+}
